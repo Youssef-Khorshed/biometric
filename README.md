@@ -7,3 +7,7 @@ How It Works
     Supports Touch ID, Face ID, and Android fingerprint sensors.
     Ensures your data stays private and protected.
      
+
+
+https://github.com/user-attachments/assets/d0e893b2-d079-45d0-8f21-328e646588e9
+
